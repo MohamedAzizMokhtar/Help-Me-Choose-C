@@ -1,0 +1,3 @@
+1 Galaxy-S21 Samsung 128 64 Android 399
+2 iPhone-14-Pro-Max iPhone 512 48 iOS 1299
+3 Pixel-6a Google 128 12 Android 500

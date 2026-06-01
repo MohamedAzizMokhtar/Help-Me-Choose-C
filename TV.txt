@@ -1,0 +1,3 @@
+1 S95B-OLED Samsung 0 0 unkown 1399
+2 A95K-OLED Sony 0 0 unkown 1979
+3 QN90B-QLED Samsung 0 0 unkown 2529
